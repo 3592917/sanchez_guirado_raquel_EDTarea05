@@ -1,3 +1,8 @@
+/**
+ * Clase principal que ejecuta el programa para procesar los pedidos
+ *
+ * @author Raquel Sánchez Guirado
+ */
 public class Main {
     public static void main(String[] args) {
         // Crea un pedido para un cliente normal

@@ -1,3 +1,8 @@
+/**
+ * Clase que representa a los clientes
+ *
+ * @author Raquel Sánchez Guirado
+ */
 public class Cliente {
     private boolean esVip;
     private String nombre;
