@@ -31,7 +31,7 @@ public class Pedido {
     /**
      * Método que permite procesar los pedidos y calcular el precio total
      * según el precio total y si el cliente es VIP o no
-     * 
+     *
      * @param total Cantidad total del pedido a procesar
      */
     public void procesarPedido(double total){
